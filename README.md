@@ -12,6 +12,8 @@ Using npm start after download should start the application!
 
 Using Insomnia you can see thagt you can use a get, post, put or delete route to access information of any of the products, their categories, or tags!
 
+Heres a [link](https://drive.google.com/file/d/1SkfwJw8iE-LmUcmNM5SVp46L4v7sN_7H/view?usp=sharing)
+
 ## Credits
 
 Here's my GitHub [CharlesRWilson](https://github.com/CharlesRWilson)
